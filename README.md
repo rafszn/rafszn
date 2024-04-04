@@ -11,7 +11,7 @@ I ❤️ code!
 * 🌍  I'm based in Lagos, Nig.
 * ✉️  You can contact me at [rafaelokenyi@gmail.com](mailto:rafaelokenyi@gmail.com)
 * 🚀  I'm currently working on [Echo - a Speech recognition App](http://github.com/rafszn/ECho)
-* 🧠  I'm learning Next, Prisma, tailwindcss
+* 🧠  I'm learning Next, Prisma, Tensorflow js
 * 🤝  I'm open to collaborating on any interesting projects
 
 ### Skills
