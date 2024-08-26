@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm Okenyi Raphael
+I'm Okenyi Uchechukwu
 ======================================================================================================================================
 
 Software Engineer
@@ -10,8 +10,8 @@ I ❤️ code!
 
 * 🌍  I'm based in Lagos, Nig.
 * ✉️  You can contact me at [rafaelokenyi@gmail.com](mailto:rafaelokenyi@gmail.com)
-* 🚀  I'm currently working on [Echo - a Speech recognition App](http://github.com/rafszn/ECho)
-* 🧠  I'm learning Next, Prisma, Tensorflow js
+* 🚀  I'm currently working on [Prizeless - a Scraping Bot](http://github.com/rafszn/puppeteer-n)
+* 🧠  I'm learning Typescript, Prisma, Tensorflow js
 * 🤝  I'm open to collaborating on any interesting projects
 
 ### Skills
