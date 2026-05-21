@@ -1,30 +1,120 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm Okenyi Uchechukwu
-======================================================================================================================================
+# Raphael Okenyi
 
-Software Engineer
------------------
+Backend & Fullstack Engineer focused on scalable web platforms, data systems, automation, and product infrastructure.
 
-I ❤️ code!
+I build production-grade applications across backend systems, crawling infrastructure, admin platforms, payment systems, analytics, and modern frontend experiences.
 
-* 🌍  I'm based in Lagos, Nig.
-* ✉️  You can contact me at [rafaelokenyi@gmail.com](mailto:rafaelokenyi@gmail.com)
-* 🚀  I'm currently working on [Web crawlers](http://github.com/rafszn/puppeteer-n)
-* 🧠  I'm learning Tensorflow js
-* 🤝  I'm open to collaborating on any interesting projects
+---
 
-### Skills
+## About Me
 
+- Based in Lagos, Nigeria
+- Building platforms around commerce, data aggregation, and automation
+- Strong focus on backend architecture and infrastructure
+- Interested in distributed systems, AI-assisted tooling, and scalable product engineering
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/TypeScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://docs.docker.com/get-started" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+---
 
+## Current Focus
 
-### Socials
+- Distributed web crawling systems
+- Data aggregation and normalization pipelines
+- GraphQL + Prisma backend architecture
+- Dockerized services and deployment workflows
+- Redis queues and background workers
+- AI-powered developer tooling
 
-<p align="left"> <a href="https://www.github.com/rafszn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/raphael-okenyi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
+
+## Tech Stack
+
+### Backend
+- Node.js
+- Express.js
+- GraphQL
+- Prisma ORM
+- MongoDB
+- PostgreSQL
+- MySQL
+- Redis
+- BullMQ
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+- TanStack Query
+- Axios
+
+### Infrastructure & DevOps
+- Docker
+- GitHub Actions
+- Linux
+- Cloudflare
+- Vercel
+- VPS Deployment
+- PM2
+
+### Crawling & Automation
+- Puppeteer
+- Cheerio
+- Browser Automation
+- Data Extraction Pipelines
+
+### Tools & Services
+- Cloudinary
+- Resend
+- Firebase
+- Git
+- REST APIs
+
+---
+
+## Projects
+
+### Prizeless
+AI-assisted product aggregation and price comparison platform focused on Nigerian commerce data.
+
+Core work includes:
+- Distributed crawling architecture
+- Product normalization systems
+- Store data aggregation
+- Analytics infrastructure
+- Affiliate and attribution systems
+
+---
+
+### Voting & Real-Time Engagement Platforms
+Worked on high-concurrency voting systems with:
+- Real-time analytics
+- Wallet systems
+- Payment integrations
+- Admin dashboards
+- Queue processing
+- Secure authentication systems
+
+---
+
+## Philosophy
+
+I prefer building systems that are:
+- Scalable
+- Maintainable
+- Observable
+- Production-ready
+
+I care about architecture decisions, developer experience, and long-term system reliability — not just shipping features quickly.
+
+---
+
+## Connect
+
+- GitHub: https://github.com/rafszn
+- LinkedIn: https://linkedin.com/in/raphael-okenyi
+- Email: rafaelokenyi@gmail.com
 
 ### Badges
 
