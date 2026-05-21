@@ -29,8 +29,8 @@ I build production-grade applications across backend systems, crawling infrastru
 ## Tech Stack
 
 ### Backend
-- Node.js
--  Express.js
+- Node.js/ts
+-  Express.js/ts
 - GraphQL
 - Prisma ORM
 - MongoDB
