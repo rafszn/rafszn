@@ -31,8 +31,7 @@ I build production-grade applications across backend systems, crawling infrastru
 ## Tech Stack
 
 ### Backend
-- Node.js
-- Express.js
+- Node.js - Express.js
 - GraphQL
 - Prisma ORM
 - MongoDB
@@ -70,31 +69,6 @@ I build production-grade applications across backend systems, crawling infrastru
 - Firebase
 - Git
 - REST APIs
-
----
-
-## Projects
-
-### Prizeless
-AI-assisted product aggregation and price comparison platform focused on Nigerian commerce data.
-
-Core work includes:
-- Distributed crawling architecture
-- Product normalization systems
-- Store data aggregation
-- Analytics infrastructure
-- Affiliate and attribution systems
-
----
-
-### Voting & Real-Time Engagement Platforms
-Worked on high-concurrency voting systems with:
-- Real-time analytics
-- Wallet systems
-- Payment integrations
-- Admin dashboards
-- Queue processing
-- Secure authentication systems
 
 ---
 
