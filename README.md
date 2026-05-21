@@ -1,5 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
 # Raphael Okenyi
 
 Backend & Fullstack Engineer focused on scalable web platforms, data systems, automation, and product infrastructure.
@@ -11,7 +9,7 @@ I build production-grade applications across backend systems, crawling infrastru
 ## About Me
 
 - Based in Lagos, Nigeria
-- Building platforms around commerce, data aggregation, and automation
+- Building platforms around fintech, intelligent commerce, data aggregation, and automation
 - Strong focus on backend architecture and infrastructure
 - Interested in distributed systems, AI-assisted tooling, and scalable product engineering
 
@@ -31,7 +29,8 @@ I build production-grade applications across backend systems, crawling infrastru
 ## Tech Stack
 
 ### Backend
-- Node.js - Express.js
+- Node.js
+-  Express.js
 - GraphQL
 - Prisma ORM
 - MongoDB
@@ -63,13 +62,6 @@ I build production-grade applications across backend systems, crawling infrastru
 - Browser Automation
 - Data Extraction Pipelines
 
-### Tools & Services
-- Cloudinary
-- Resend
-- Firebase
-- Git
-- REST APIs
-
 ---
 
 ## Philosophy
@@ -80,7 +72,7 @@ I prefer building systems that are:
 - Observable
 - Production-ready
 
-I care about architecture decisions, developer experience, and long-term system reliability — not just shipping features quickly.
+I care about architecture decisions, developer experience, and long-term system reliability, not just shipping features quickly.
 
 ---
 
